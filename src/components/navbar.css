@@ -1,0 +1,16 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: black;
+}
+
+.navbar a{
+  text-decoration: none;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  transition: 0.3s ease-in-out;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
